@@ -1,0 +1,5 @@
+<resources>
+    <string name="my_label">Cliquez ici !</string>
+    <string name="clear_filter">Effacer le filtre</string>
+    <string name="load_data">Charger les données</string>
+</resources>

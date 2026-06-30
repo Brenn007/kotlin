@@ -1,0 +1,5 @@
+<resources>
+    <string name="my_label">Click me!</string>
+    <string name="clear_filter">Clear filter</string>
+    <string name="load_data">Load data</string>
+</resources>
