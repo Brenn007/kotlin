@@ -11,7 +11,7 @@ import kotlin.test.assertTrue
 
 class MainViewModelTest {
 
-    // @Test // Décommenter pour tester avec une vraie requête (nécessite WEATHER_API_KEY)
+    @Test
     fun testLoadWeather() = runBlocking {
         assertTrue(
             BuildConfig.WEATHER_API_KEY.isNotEmpty(),
